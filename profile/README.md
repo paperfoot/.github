@@ -6,4 +6,4 @@ Paperfoot builds AI for ageing and biology — not language models repackaged fo
 
 This org hosts our open-source CLIs. Small, composable, JSON-on-stdout. Each tool does one job and composes with the rest.
 
-→ [paperfoot.com](https://paperfoot.com)
+→ [paperfoot.si](https://paperfoot.si)
